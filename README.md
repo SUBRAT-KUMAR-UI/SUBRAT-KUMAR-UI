@@ -1,4 +1,4 @@
-<div align"center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJleDhkMjJweXl6aTF1NXNoN2hoNDIzd2NwMDFwbGphcWFucjhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t9XE8hJueQbu06e73I/giphy.gif">
 </div>
 # 💫 About Me:
