@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJleDhkMjJweXl6aTF1NXNoN2hoNDIzd2NwMDFwbGphcWFucjhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t9XE8hJueQbu06e73I/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjJ5YTJ6bHo4NTRyNm9vNGgzaTFkeTlka2gzcm4wYThyaHBhbnE0MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JnZw8mzStIlRtRehLn/giphy.gif">
 </div>
 # 💫 About Me:
 🔭 I'm currently working on building innovative full-stack applications and contributing to open-source projects that make a difference<br>👯 I'm looking to collaborate on cutting-edge web development projects, AI/ML applications, and developer tools that solve real-world problems<br>🤝 I'm looking for help with advanced system design patterns, scalable architecture solutions, and cloud-native best practices<br>🌱 I'm currently learning cloud-native technologies, microservices architecture, and the latest in AI/ML frameworks like TensorFlow and PyTorch<br>💬 Ask me about JavaScript/TypeScript, React/Next.js, Node.js, Python, cloud computing, DevOps, or anything tech-related!<br>⚡ Fun fact: I debug code faster with coffee ☕ and solve complex problems better while listening to lo-fi music 🎵. I also believe that the best code is written at 2 AM! 🌙
